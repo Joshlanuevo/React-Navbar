@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Joshlanuevo/React-Navbar/static/css/main.e6c13ad2.css",
+    "main.js": "/Joshlanuevo/React-Navbar/static/js/main.045c1f90.js",
+    "index.html": "/Joshlanuevo/React-Navbar/index.html",
+    "main.e6c13ad2.css.map": "/Joshlanuevo/React-Navbar/static/css/main.e6c13ad2.css.map",
+    "main.045c1f90.js.map": "/Joshlanuevo/React-Navbar/static/js/main.045c1f90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.045c1f90.js"
+  ]
+}
